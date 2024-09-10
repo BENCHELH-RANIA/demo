@@ -2,5 +2,5 @@ print("Hello word")
 a=int(input())
 for i in range(a):
     print(i,end="")
-    print('test of the third 4 commit')
+    print('test of the third 5S commit')
     
